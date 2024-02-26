@@ -1,0 +1,3 @@
+D:\envs\cmake-3.28.2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\GO_on.dir/objects.a
+D:\envs\mingw64\bin\ar.exe qc CMakeFiles\GO_on.dir/objects.a @CMakeFiles\GO_on.dir\objects1.rsp
+D:\envs\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\GO_on.dir/objects.a -Wl,--no-whole-archive -o GO_on.exe -Wl,--out-implib,libGO_on.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GO_on.dir\linkLibs.rsp

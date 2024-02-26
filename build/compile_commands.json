@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\utils\\display.c.obj -c D:\\cpl_learn\\GO_on\\src\\utils\\display.c",
+  "file": "D:/cpl_learn/GO_on/src/utils/display.c",
+  "output": "CMakeFiles/GO_on.dir/src/utils/display.c.obj"
+},
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\utils\\input.c.obj -c D:\\cpl_learn\\GO_on\\src\\utils\\input.c",
+  "file": "D:/cpl_learn/GO_on/src/utils/input.c",
+  "output": "CMakeFiles/GO_on.dir/src/utils/input.c.obj"
+},
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\utils\\audio.c.obj -c D:\\cpl_learn\\GO_on\\src\\utils\\audio.c",
+  "file": "D:/cpl_learn/GO_on/src/utils/audio.c",
+  "output": "CMakeFiles/GO_on.dir/src/utils/audio.c.obj"
+},
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\utils\\linkedlist.c.obj -c D:\\cpl_learn\\GO_on\\src\\utils\\linkedlist.c",
+  "file": "D:/cpl_learn/GO_on/src/utils/linkedlist.c",
+  "output": "CMakeFiles/GO_on.dir/src/utils/linkedlist.c.obj"
+},
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\menu.c.obj -c D:\\cpl_learn\\GO_on\\src\\menu.c",
+  "file": "D:/cpl_learn/GO_on/src/menu.c",
+  "output": "CMakeFiles/GO_on.dir/src/menu.c.obj"
+},
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\game.c.obj -c D:\\cpl_learn\\GO_on\\src\\game.c",
+  "file": "D:/cpl_learn/GO_on/src/game.c",
+  "output": "CMakeFiles/GO_on.dir/src/game.c.obj"
+},
+{
+  "directory": "D:/cpl_learn/GO_on/build",
+  "command": "D:\\envs\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\GO_on.dir\\src\\GO_on.c.obj -c D:\\cpl_learn\\GO_on\\src\\GO_on.c",
+  "file": "D:/cpl_learn/GO_on/src/GO_on.c",
+  "output": "CMakeFiles/GO_on.dir/src/GO_on.c.obj"
+}
+]
